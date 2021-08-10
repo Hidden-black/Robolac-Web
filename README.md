@@ -1,2 +1,2 @@
 # Roblak
-Webpage uses Format inspired by tailblocks 
+Some parts of webpage includes stuff from tailblocks 
