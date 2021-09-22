@@ -36,7 +36,6 @@ body,html{
     animation-iteration-count: 5;
   }
 
-  
   @keyframes typingAnim{
     from { width: 0 }
     to { width: 100% }
@@ -44,4 +43,9 @@ body,html{
   @keyframes typingSpeak{
     0% { width: 1em; height: .1em }
     100% { width: 1em; height: .5em; }
+  }
+
+#drok{
+    width : 30px;
+    cursor : pointer;
   }
