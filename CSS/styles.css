@@ -49,3 +49,9 @@ body,html{
     width : 30px;
     cursor : pointer;
   }
+
+:root{
+  --primary-color: #edf2fc;
+  --secondary-color: #212121;
+  
+}
